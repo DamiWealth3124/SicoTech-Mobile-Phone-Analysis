@@ -89,7 +89,7 @@ Categorized performance into:
 
 **Data Modeling**
 
-Created aggregated measures:
+1. Created aggregated measures:
 
 - Total Revenue = 39.1M
 
@@ -99,7 +99,7 @@ Created aggregated measures:
 
 - Total Discount = 3.4M
 
-Built summary tables for:
+2. Built summary tables for:
 
 - Brand performance
 
@@ -125,7 +125,7 @@ Built summary tables for:
 
 **Key Insights**
 
-📈 Top Performing Brands
+1. Top Performing Brands
 
 - Apple – 12.0M
 
@@ -135,7 +135,7 @@ Built summary tables for:
 
 - Apple and Samsung dominate revenue contribution.
 
-📉 Least Performing Brands
+2. Least Performing Brands
 
 - Nokia – 1.1M
 
@@ -201,7 +201,7 @@ Revenue is concentrated more in lower-performing segments, suggesting inventory 
 
 The dashboard contains:
 
-1️⃣Executive KPIs
+1. Executive KPIs
 
 - Total Revenue
 
@@ -211,19 +211,19 @@ The dashboard contains:
 
 - Total Discount
 
-2️⃣ Brand Performance Analysis
+2️. Brand Performance Analysis
 
 - Top Performing Brands
 
 - Least Performing Brands
 
-3️⃣ Product Attribute Analysis
+3️. Product Attribute Analysis
 
 - Storage Capacity Distribution
 
 - Top Selling Colors
 
-4️⃣ Sales Performance Segmentation
+4️. Sales Performance Segmentation
 
 - High vs Low Sales distribution
 
@@ -247,10 +247,10 @@ The dashboard provides a comprehensive performance monitoring system that suppor
 
 **Limitations**
 
-Dataset scope is not time-bound (no time trend analysis)
+- Dataset scope is not time-bound (no time trend analysis)
 
-No customer demographic data available
+- No customer demographic data available
 
-Profit margin not explicitly calculated
+- Profit margin not explicitly calculated
 
-No supplier cost data included
+- No supplier cost data included

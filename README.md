@@ -245,7 +245,7 @@ This SicoTech analysis transforms transactional phone sales data into actionable
 
 The dashboard provides a comprehensive performance monitoring system that supports data-driven retail decision-making.
 
-Limitations
+**Limitations**
 
 Dataset scope is not time-bound (no time trend analysis)
 

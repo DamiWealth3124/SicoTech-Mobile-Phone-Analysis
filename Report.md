@@ -61,6 +61,8 @@ Microsoft Excel – Data cleaning & dashboard design
 
 PivotTables – Aggregations
 
+![](images/Sico_Pivot Table.png)
+
 Power Query – Data transformation
 
 Excel Charts – Visual storytelling
@@ -68,6 +70,8 @@ Excel Charts – Visual storytelling
 Slicers – Interactive filtering
 
 **Data Cleaning & Preparation**
+
+![](images/Sico_Data_Cleaning.png)
 
 - Removed duplicate records
 
@@ -198,6 +202,8 @@ Revenue is concentrated more in lower-performing segments, suggesting inventory 
 - Consider bundling underperforming storage sizes with promotions
 
 **Dashboard Overview**
+
+![](images/SicoTech Dashboard.jpg)
 
 The dashboard contains:
 
